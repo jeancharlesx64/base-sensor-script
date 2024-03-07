@@ -3,6 +3,7 @@
 
 Compiled from some scripts used in class for the use of base sensors, to be used in IoT projects
 
+<hr>
 <h3 align=center>Datasheet</h3>
 <table>
 	<tr>  
@@ -40,8 +41,34 @@ Temperature sensor produces a voltage signal that varies 10mV for each ºC, and 
 		<td>
 		<h5>TCRT5000 <h5>
 		</td>  
+						<td>
+Temperature sensor produces a voltage signal that varies 10mV for each ºC, and it is capable of operating in a temperature range that can vary between -55ºC to 150ºC. The proximity between the measured result and the true value of the signal produced can vary from + -0.4ºC to + -1.5ºC
+		</td>  
+	</tr>
+		</tr>
+		<tr>  
+		<td>
+		<img src="https://static.wixstatic.com/media/5a237c_7bde16be43444bba9adac9d381c0e50d~mv2.png/v1/fill/w_283,h_284,al_c,lg_1,q_85,enc_auto/Imagem1.png" width="150px"  align=/> 
+		</td>  
+		<td>
+		<h5>LDR <h5>
+		</td>  
 				<td>
-TCRT5000 Infrared module - Segue Lane is a module based on the TCRT5000 sensor, which is an infrared light emitter and a photo-transistor that work together, allowing the identification of white, black and even intermediate colored lines/objects
+The LDR (Light Dependent Resistor) Luminosity Sensor is a component whose resistance varies according to the intensity of the light. The more light falling on the component, the lower the resistance
+		</td>  
+	</tr>
+		</tr>
+		</tr>
+		<tr>  
+		<td>
+		<img src="https://www.newpecas.com.br/imagem/web/sensor-de-temperatura-umidade-dht11.webp" width="150px"  align=/> 
+		</td>  
+		<td>
+		<h5>DHT11 <h5>
+		</td>  
+				<td>
+		The DHT11 is a temperature and humidity sensor that allows readings of temperatures between 0 to 50 Celsius and humidity between 20 to 90%, widely used for Arduino projects.
 		</td>  
 	</tr>
 </table>
+<hr>
